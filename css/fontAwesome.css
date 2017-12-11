@@ -2335,3 +2335,12 @@
   overflow: visible;
   clip: auto;
 }
+
+h4 {
+  font-family: "Brush Script MT", cursive;
+  /* font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26px; */
+}
